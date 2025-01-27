@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://singapore-bella-entertainment.com/wp-content/uploads/2024/08/wedding-decoration-2.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"A new event","image":"https://singapore-bella-entertainment.com/wp-content/uploads/2024/08/wedding-decoration-2.jpg","date":"2022-10-01","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"test@test.com","password":"$2a$12$9HYXJWam4jpCHLy7tJOWOO53LM0uOIfX9uXhtRNr3A2VrO20Lz936","id":"5ee9622a-b2d3-47f9-add7-ff945210f57f"}]}
